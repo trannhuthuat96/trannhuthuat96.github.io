@@ -51,10 +51,10 @@ Work experience
 Honor and Awards
 =====
 * Jul 2020: The Vingroup Graduate Scholarship for Ph.D. Degree in Computer Science at Singapore Management University, Singapore
-* Jun 2018: The first prize in Student Academic Research, VNU
-* Apr 2018: The first prize in Student Academic Research, VNU-UET
+* Jun 2018: The first prize in Student Academic Research, Vietnam National University, Hanoi (VNU)
+* Apr 2018: The first prize in Student Academic Research, VNU University of Engineering and Technology (VNU-UET)
 * Apr 2018: The third prize in Vietnamese National Olympiad of Mathematics for Undergraduates
-* Dec 2017: The Typical Young Face ("Gương mặt trẻ tiêu biểu" in Vietnamese), Vietnam National University, Hanoi (VNU)
+* Dec 2017: The Typical Young Face ("Gương mặt trẻ tiêu biểu" in Vietnamese), Vietnam National University, Hanoi
 * Apr 2017: The second prize in Vietnamese National Olympiad of Mathematics for Undergraduates
 * Dec 2016: Mitsubishi Scholarship for excellent academic results
 * Apr 2016: The third prize in Vietnamese National Olympiad of Physics for Undergraduates
