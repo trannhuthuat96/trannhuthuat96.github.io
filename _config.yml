@@ -11,9 +11,9 @@ title                    : "Nhu-Thuat Tran"
 title_separator          : "-"
 name                     : &name "Nhu-Thuat Tran"
 description              : &description "PhD Candidate in Computer Science"
-url                      : https://trannhuthuat96.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tnthuat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "trannhuthuat96/trannhuthuat96.github.io"
+repository               : "trannhuthuat96/tnthuat.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
