@@ -48,7 +48,7 @@ Work experience
   * Data Scientist
   * Research Topic: Applications of Data Mining and Natural Language Processing in E-Commerce
   
-Honor and Awards
+Honors and Awards
 =====
 * Jul 2020: The Vingroup Graduate Scholarship for Ph.D. Degree in Computer Science at Singapore Management University, Singapore
 * Jun 2018: The first prize in Student Academic Research, Vietnam National University, Hanoi (VNU)
