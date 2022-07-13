@@ -34,11 +34,11 @@ Research Interests
 Education
 ======
 * Aug 2020 - Present: <b>PhD in Computer Science</b>, Singapore Management University, Singapore
-* Sep 2014 - Jun 2018: <b>BSc in Computer Science</b>, VNU University of Engineering and Technology, Vietnam
+* Sep 2014 - Jun 2018: <b>BSc in Computer Science</b>, VNU University of Engineering and Technology (VNU-UET), Vietnam
 
-Work experience
+Work Experience
 ======
-* Aug 2018 - Jul 2020: Data Science and Knowledge Technology Laboratory, VNU University of Engineering and Technology
+* Aug 2018 - Jul 2020: Data Science and Knowledge Technology Laboratory, VNU-UET
   * Junior Lecturer
   * Research Topic: Intention Mining from Social Media Texts
   * Teaching Undergraduate Courses
@@ -50,9 +50,9 @@ Work experience
   
 Honors and Awards
 =====
-* Jul 2020: The Vingroup Graduate Scholarship for Ph.D. Degree in Computer Science at Singapore Management University, Singapore
-* Jun 2018: The first prize in Student Academic Research, Vietnam National University, Hanoi (VNU)
-* Apr 2018: The first prize in Student Academic Research, VNU University of Engineering and Technology (VNU-UET)
+* Jul 2020: Vingroup Graduate Scholarship for PhD Degree in Computer Science at Singapore Management University
+* Jun 2018: The first prize in Student Academic Research, Vietnam National University, Hanoi
+* Apr 2018: The first prize in Student Academic Research, VNU University of Engineering and Technology
 * Apr 2018: The third prize in Vietnamese National Olympiad of Mathematics for Undergraduates
 * Dec 2017: The Typical Young Face ("Gương mặt trẻ tiêu biểu" in Vietnamese), Vietnam National University, Hanoi
 * Apr 2017: The second prize in Vietnamese National Olympiad of Mathematics for Undergraduates
