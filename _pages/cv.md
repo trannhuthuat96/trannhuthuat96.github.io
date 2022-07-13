@@ -34,7 +34,7 @@ Research Interests
 Education
 ======
 * Aug 2020 - Present: <b>PhD in Computer Science</b>, Singapore Management University, Singapore
-* Sep 2014 - Jun 2018: <b>BSc in Computer Science</b>, VNU University of Engineering and Technology (VNU-UET), Vietnam
+* Sep 2014 - Jun 2018: <b>BSc in Computer Science</b>, VNU University of Engineering and Technology, Vietnam
 
 Work Experience
 ======
