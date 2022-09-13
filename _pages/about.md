@@ -17,8 +17,8 @@ Going back further in time, I obtained my BSc degree (first class honor) in Comp
 </div>
 
 ## News
-* Aug 2022 - Attending KDD'22 at Washington, D.C.
-* Jul 2022 - Awarded SMU Presidential Doctoral Fellowship for AY2022
-* May 2022 - Paper accepted to KDD'22
-* Nov 2021 - Passed Qualifying Examination (QE)
-* Aug 2020 - Started my PhD at Singapore Management University
+* 2022-08-14: Attending KDD'22 at Washington, D.C.
+* 2022-08-11: Awarded SMU Presidential Doctoral Fellowship for AY2022
+* 2022-05-19: Paper accepted to KDD'22
+* 2021-11-19: Pass Qualifying Examination (QE)
+* 2020-08-17: Start my PhD at Singapore Management University!
