@@ -50,6 +50,7 @@ Work Experience
   
 Honors and Awards
 =====
+* Aug 2022: SMU Presidential Doctoral Fellowship for AY2022-2023
 * Jul 2020: Vingroup Graduate Scholarship for PhD Degree in Computer Science at Singapore Management University
 * Jun 2018: The first prize in Student Academic Research, Vietnam National University, Hanoi
 * Apr 2018: The first prize in Student Academic Research, VNU University of Engineering and Technology
@@ -67,3 +68,7 @@ Teaching
     * Database Management Systems (Fall 2018 & 2019)
     * Database (Spring 2019)
     * Data Structures and Algorithms (Fall 2018 & 2019)
+
+Services
+======
+  * Student Volunteer at KDD'22
