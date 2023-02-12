@@ -50,6 +50,7 @@ Work Experience
   
 Honors and Awards
 =====
+* Jan 2023: Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2022
 * Aug 2022: SMU Presidential Doctoral Fellowship for AY2022-2023
 * Jul 2020: Vingroup Graduate Scholarship for PhD Degree in Computer Science at Singapore Management University
 * Jun 2018: The first prize in Student Academic Research, Vietnam National University, Hanoi
@@ -71,4 +72,5 @@ Teaching
 
 Services
 ======
-  * Student Volunteer at KDD'22
+  * Reviewer: PAKDD-23
+  * Student Volunteer at KDD-22

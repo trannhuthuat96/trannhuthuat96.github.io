@@ -17,8 +17,9 @@ Going back further in time, I obtained my BSc degree (first class honor) in Comp
 </div>
 
 ## News
-* 2022-08-14: Attending KDD'22 at Washington, D.C.
+* 2023-01-03: Awarded Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2022
+* 2022-08-14: Attending KDD-22 at Washington, D.C.
 * 2022-08-11: Awarded SMU Presidential Doctoral Fellowship for AY2022
-* 2022-05-19: Paper accepted to KDD'22
+* 2022-05-19: Paper accepted at KDD-22
 * 2021-11-19: Pass Qualifying Examination (QE)
 * 2020-08-17: Start my PhD at Singapore Management University!
