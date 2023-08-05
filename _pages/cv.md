@@ -22,7 +22,6 @@ redirect_from:
 </head>
 
 <div class="display">Full <a>CV</a> is available upon request.<br></div>
-<div class="hide">Drop me an email if you are interested</div>
 
 
 Research Interests

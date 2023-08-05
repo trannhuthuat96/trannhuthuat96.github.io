@@ -17,9 +17,10 @@ Going back further in time, I obtained my BSc degree (first class honor) in Comp
 </div>
 
 ## News
+* 2023-08-05: Paper accepted at CIKM-23, titled "Multi-Representation Variational Autoencoder via Iterative Latent Attention and Implicit Differentiation"
 * 2023-01-03: Awarded Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2022
 * 2022-08-14: Attending KDD-22 at Washington, D.C.
 * 2022-08-11: Awarded SMU Presidential Doctoral Fellowship for AY2022
-* 2022-05-19: Paper accepted at KDD-22
+* 2022-05-19: Paper accepted at KDD-22, titled "Aligning Dual Disentangled User Representations from Ratings and Textual Content"
 * 2021-11-19: Pass Qualifying Examination (QE)
 * 2020-08-17: Start my PhD at Singapore Management University!

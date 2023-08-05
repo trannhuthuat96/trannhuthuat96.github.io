@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b> [Multi-Representation Variational Autoencoder via Iterative Latent Attention and Implicit Differentiation]()</b> <br>
+<b>Nhu-Thuat Tran</b>, Hady W. Lauw <br>
+<i> ACM International Conference on Information and Knowledge Management (<b>CIKM'23</b>), Oct 2023 </i> <br>
+[Paper]() [Code]()
 
 <b> [Aligning Dual Disentangled User Representations from Ratings and Textual Content]()</b> <br>
 <b>Nhu-Thuat Tran</b>, Hady W. Lauw <br>
