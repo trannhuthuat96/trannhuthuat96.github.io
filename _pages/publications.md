@@ -6,7 +6,7 @@ author_profile: true
 ---
 <b> [Memory Network-Based Interpreter of User Preferences in Content-Aware Recommender Systems]()</b> <br>
 <b>Nhu-Thuat Tran</b>, Hady W. Lauw <br>
-<i> ACM Transactions on Intelligent Systems and Technology (TIST) </i> <br>
+<i> ACM Transactions on Intelligent Systems and Technology (<b>TIST</b>TIST) </i> <br>
 [Paper]() [Code]()
 
 <b> [Multi-Representation Variational Autoencoder via Iterative Latent Attention and Implicit Differentiation]()</b> <br>
