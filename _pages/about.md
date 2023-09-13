@@ -17,6 +17,7 @@ Going back further in time, I obtained my BSc degree (first class honor) in Comp
 </div>
 
 ## News
+* 2023-09-06: Invited as PC Member for PAKDD-24
 * 2023-09-02: Journal paper accepted at TIST, titled "Memory Network-Based Interpreter of User Preferences in Content-Aware Recommender Systems"
 * 2023-08-05: Paper accepted at CIKM-23, titled "Multi-Representation Variational Autoencoder via Iterative Latent Attention and Implicit Differentiation" 
 * 2023-01-03: Awarded Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2022
