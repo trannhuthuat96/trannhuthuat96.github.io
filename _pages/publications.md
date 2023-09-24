@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. <b> [Memory Network-Based Interpreter of User Preferences in Content-Aware Recommender Systems]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> ACM Transactions on Intelligent Systems and Technology (<b>TIST</b>) </i> <br>[Paper] [Code]<br>
+1. <b> [Memory Network-Based Interpreter of User Preferences in Content-Aware Recommender Systems]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> ACM Transactions on Intelligent Systems and Technology (<b>TIST</b>) </i> <br>[Paper](https://dl.acm.org/doi/10.1145/3625239) [Code]<br>
 
 2. <b> [Multi-Representation Variational Autoencoder via Iterative Latent Attention and Implicit Differentiation]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> ACM International Conference on Information and Knowledge Management (<b>CIKM'23</b>), Oct 2023 </i> <br>[Paper] [Code]<br>
 
