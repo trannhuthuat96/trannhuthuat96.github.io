@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. <b> [Memory Network-Based Interpreter of User Preferences in Content-Aware Recommender Systems]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> ACM Transactions on Intelligent Systems and Technology (<b>TIST</b>) </i> <br>[Paper](https://dl.acm.org/doi/10.1145/3625239) [Code]<br>
+1. <b> [Memory Network-Based Interpreter of User Preferences in Content-Aware Recommender Systems]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> ACM Transactions on Intelligent Systems and Technology (<b>TIST</b>), Vol. 14, No. 6, Nov 2023 </i> <br>[Paper](https://dl.acm.org/doi/full/10.1145/3625239) [Code]<br>
 
-2. <b> [Multi-Representation Variational Autoencoder via Iterative Latent Attention and Implicit Differentiation]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> ACM International Conference on Information and Knowledge Management (<b>CIKM'23</b>), Oct 2023 </i> <br>[Paper](https://drive.google.com/file/d/1OMe5GeBBaJq-1CwsEUdyL8ZKEt9o362L/view?usp=share_link) [Code]<br>
+2. <b> [Multi-Representation Variational Autoencoder via Iterative Latent Attention and Implicit Differentiation]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> ACM International Conference on Information and Knowledge Management (<b>CIKM'23</b>), Oct 2023 </i> <br>[Paper](https://dl.acm.org/doi/10.1145/3583780.3614980) [Code]<br>
 
 3. <b> [Aligning Dual Disentangled User Representations from Ratings and Textual Content]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD'22</b>), Aug 2022 </i> <br>[Paper](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8601&context=sis_research) [Code](https://github.com/PreferredAI/ADDVAE)<br>
 
