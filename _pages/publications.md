@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. <b> [Learning Multi-Faceted Prototypical User Interests]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> International Conference on Learning Representations (<b>ICLR'24</b>)</i> <br>[Paper] [Code]<br>
+1. <b> [Learning Multi-Faceted Prototypical User Interests]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> International Conference on Learning Representations (<b>ICLR'24</b>), May 2024</i> <br>[Paper] [Code]<br>
    
 2. <b> [Memory Network-Based Interpreter of User Preferences in Content-Aware Recommender Systems]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> ACM Transactions on Intelligent Systems and Technology (<b>TIST</b>), Vol. 14, No. 6, Nov 2023 </i> <br>[Paper](https://dl.acm.org/doi/full/10.1145/3625239) [Code]<br>
 
