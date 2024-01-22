@@ -17,6 +17,7 @@ Going back further in time, I obtained my BSc degree (first class honor) in Comp
 </div>
 
 ## News
+* 2024-01-21: Invited as PC Member for KDD-24 (Research Track)
 * 2024-01-16: Paper accepted at ICLR-24, titled "Learning Multi-Faceted Prototypical User Interests"
 * 2023-10-21: Attending CIKM-23 in Birmingham, UK
 * 2023-09-06: Invited as PC Member for PAKDD-24
