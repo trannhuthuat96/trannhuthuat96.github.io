@@ -71,5 +71,5 @@ Teaching
 
 Services
 ======
-  * Reviewer: PAKDD (2023-2024)
+  * Reviewer: KDD (2024), WSDM (2024), PAKDD (2023-2024)
   * Student Volunteer at KDD-22
