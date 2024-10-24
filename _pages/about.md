@@ -17,7 +17,7 @@ Going back further in time, I obtained my BSc degree (first class honor) in Comp
 </div>
 
 ## News
-* 2024-10-24: Paper accepted at WSDM-2025, titled "VARIUM: Variational Autoencoder for Multi-Interest Representation with Inter-User Memory"
+* 2024-10-24: Paper accepted at WSDM-25, titled "VARIUM: Variational Autoencoder for Multi-Interest Representation with Inter-User Memory"
 * 2024-08-13: Invited as PC Member for ICLR-25
 * 2024-07-31: Finished internship at Huawei Noah's Ark Lab, Singapore Research Centre
 * 2024-07-07: Invited as PC Member for KDD-25 (Research Track, August Cycle)
