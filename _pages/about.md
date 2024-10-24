@@ -17,6 +17,15 @@ Going back further in time, I obtained my BSc degree (first class honor) in Comp
 </div>
 
 ## News
+* 2024-10-24: Paper accepted at WSDM-2025, titled "VARIUM: Variational Autoencoder for Multi-Interest Representation with Inter-User Memory"
+* 2024-08-13: Invited as PC Member for ICLR-25
+* 2024-07-31: Finished internship at Huawei Noah's Ark Lab, Singapore Research Centre
+* 2024-07-07: Invited as PC Member for KDD-25 (Research Track, August Cycle)
+* 2024-07-05: SMU Presidential Doctoral Fellowship AY2024
+* 2024-07-01: SCIS-SMU Dean's List Award AY2024
+* 2024-06-23: Invited as PC Member for WSDM-25
+* 2024-05-06: Attending ICLR-24 in Vienna, Austria
+* 2024-04-22: Joined Huawei Noah's Ark Lab, Singapore Research Centre as an intern
 * 2024-01-21: Invited as PC Member for KDD-24 (Research Track)
 * 2024-01-16: Paper accepted at ICLR-24, titled "Learning Multi-Faceted Prototypical User Interests"
 * 2023-10-21: Attending CIKM-23 in Birmingham, UK
@@ -25,7 +34,7 @@ Going back further in time, I obtained my BSc degree (first class honor) in Comp
 * 2023-08-05: Paper accepted at CIKM-23, titled "Multi-Representation Variational Autoencoder via Iterative Latent Attention and Implicit Differentiation" 
 * 2023-01-03: Awarded Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2022
 * 2022-08-14: Attending KDD-22 at Washington, D.C.
-* 2022-08-11: Awarded SMU Presidential Doctoral Fellowship for AY2022
+* 2022-08-11: Awarded SMU Presidential Doctoral Fellowship AY2022
 * 2022-05-19: Paper accepted at KDD-22, titled "Aligning Dual Disentangled User Representations from Ratings and Textual Content"
-* 2021-11-19: Pass Qualifying Examination (QE)
-* 2020-08-17: Start my PhD at Singapore Management University!
+* 2021-11-19: Passed Qualifying Examination (QE)
+* 2020-08-17: Started my PhD at Singapore Management University!

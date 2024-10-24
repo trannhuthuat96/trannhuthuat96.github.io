@@ -37,6 +37,10 @@ Education
 
 Work Experience
 ======
+* Apr 2024 - July 2024: Huawei Singapore Research Center
+  * Research intern
+  * Research topic: Towards foundational recommender systems
+ 
 * Aug 2018 - Jul 2020: Data Science and Knowledge Technology Laboratory, VNU-UET
   * Junior Lecturer
   * Research Topic: Intention Mining from Social Media Texts
@@ -46,9 +50,30 @@ Work Experience
 * May 2019 - July 2020: SENDO Technology Joint Stock Company
   * Data Scientist
   * Research Topic: Applications of Data Mining and Natural Language Processing in E-Commerce
+
+Services
+======
+  * PC Member:
+    * 2025: KDD, ICLR, WSDM
+    * 2024: KDD, WSDM, PAKDD
+    * 2023: PAKDD
+  * Student Volunteer at KDD-22
+
+Teaching
+======
+  * Singapore Management University
+    * Machine Learning (Graduate course) - STA (Fall 2024)
+    * Computational Thinking (Undergraduate course) - STA (Fall 2024)
+    
+  * VNU University of Engineering and Technology
+    * Database Management Systems (Fall 2018 & 2019)
+    * Database (Spring 2019)
+    * Data Structures and Algorithms (Fall 2018 & 2019)
   
 Honors and Awards
 =====
+* Aug 2024: SMU Presidential Doctoral Fellowship for AY2023-2024
+* Aug 2024: SCIS-SMU Dean's List Award for AY2023-2024
 * Jan 2023: Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2022
 * Aug 2022: SMU Presidential Doctoral Fellowship for AY2022-2023
 * Jul 2020: Vingroup Graduate Scholarship for PhD Degree in Computer Science at Singapore Management University
@@ -61,15 +86,3 @@ Honors and Awards
 * Apr 2016: The third prize in Vietnamese National Olympiad of Physics for Undergraduates
 * Dec 2015: Pony Chung scholarship for excellent academic results
 * 2014 - 2018: VNU-UET scholarship in 8 semesters for excellent academic results
-  
-Teaching
-======
-  * VNU University of Engineering and Technology
-    * Database Management Systems (Fall 2018 & 2019)
-    * Database (Spring 2019)
-    * Data Structures and Algorithms (Fall 2018 & 2019)
-
-Services
-======
-  * Reviewer: KDD (2024), WSDM (2024), PAKDD (2023-2024)
-  * Student Volunteer at KDD-22
