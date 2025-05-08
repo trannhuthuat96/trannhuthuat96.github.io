@@ -53,15 +53,19 @@ Work Experience
 
 Services
 ======
-  * PC Member:
-    * 2025: KDD, ICLR, WSDM
+  * Conference PC Member:
+    * 2025: KDD, ICLR, TheWebConf, WSDM, CIKM
     * 2024: KDD, WSDM, PAKDD
     * 2023: PAKDD
+  * Journal Reviewer:
+    * Information Processing & Management (IP&M)
   * Student Volunteer at KDD-22
 
 Teaching
 ======
   * Singapore Management University
+    * Financial Analytics (Undergraduate course) - STA (Spring 2025)
+    * Machine Learning Application (Undergraduate course) - STA (Spring 2025)
     * Machine Learning (Graduate course) - STA (Fall 2024)
     * Computational Thinking (Undergraduate course) - STA (Fall 2024)
     
@@ -72,6 +76,7 @@ Teaching
   
 Honors and Awards
 =====
+* Dec 2024: Recognized as Excellent Reviewer (top 10% - 20% of reviewers), KDD 2025 Research Track (August Cycle)
 * Aug 2024: SMU Presidential Doctoral Fellowship for AY2023-2024
 * Aug 2024: SCIS-SMU Dean's List Award for AY2023-2024
 * Jan 2023: Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2022
