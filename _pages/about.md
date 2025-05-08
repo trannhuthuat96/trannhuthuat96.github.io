@@ -18,8 +18,9 @@ Going back further in time, I obtained my BSc degree (first class honor) in Comp
 
 ## News
 * 2025-05-08: Paper accepted at UAI-25, titled "Optimal Transport Alignment of User Preferences from Ratings and Texts"
-* 2025-03-17: Invited as PC member of CIKM-25
+* 2025-03-17: Invited as PC member for CIKM-25
 * 2025-03-10: Attending WSDM 2025 in Hannover, Germany
+* 2025-01-12: Invited as PC Member for KDD-25 (Research Track, February Cycle)
 * 2024-12-18: Recognized as Excellent Reviewer (top 10% - 20% of reviewers), KDD 2025 Research Track (August Cycle)
 * 2024-10-24: Paper accepted at WSDM-25, titled "VARIUM: Variational Autoencoder for Multi-Interest Representation with Inter-User Memory"
 * 2024-08-13: Invited as PC Member for ICLR-25
