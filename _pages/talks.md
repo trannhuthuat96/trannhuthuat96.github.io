@@ -4,7 +4,7 @@ title: "Research Talks"
 permalink: /talks/
 author_profile: true
 ---
-* * [VARIUM: Variational Autoencoder for Multi-Interest Representation with Inter-User Memory]()
+* [VARIUM: Variational Autoencoder for Multi-Interest Representation with Inter-User Memory]()
   * WSDM-25
   * March 2025, Hannover, Germany
 
