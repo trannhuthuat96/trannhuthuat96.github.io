@@ -32,12 +32,12 @@ Research Interests
 
 Education
 ======
-* Aug 2020 - Present: <b>PhD in Computer Science</b>, Singapore Management University, Singapore
+* Aug 2020 - Jul 2025: <b>PhD in Computer Science</b>, Singapore Management University, Singapore
 * Sep 2014 - Jun 2018: <b>BSc in Computer Science</b>, VNU University of Engineering and Technology, Vietnam
 
 Work Experience
 ======
-* Apr 2024 - July 2024: Huawei Singapore Research Center
+* Apr 2024 - July 2024: Huawei Noah's Ark Lab, Singapore Research Center
   * Research intern
   * Research topic: Towards foundational recommender systems
  
@@ -54,6 +54,7 @@ Work Experience
 Services
 ======
   * Conference PC Member:
+    * 2026: WSDM
     * 2025: KDD, ICLR, TheWebConf, WSDM, CIKM
     * 2024: KDD, WSDM, PAKDD
     * 2023: PAKDD

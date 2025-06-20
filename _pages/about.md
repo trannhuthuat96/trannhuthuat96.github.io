@@ -17,6 +17,8 @@ Going back further in time, I obtained my BSc degree (first class honor) in Comp
 </div>
 
 ## News
+* 2025-06-20: Invited as PC member for WSDM-26
+* 2025-05-28: Successfully defended my PhD dissertation, titled "Disentangling User Preferences Towards Self-Interpretable Recommender Systems"
 * 2025-05-08: Paper accepted at UAI-25, titled "Optimal Transport Alignment of User Preferences from Ratings and Texts"
 * 2025-03-17: Invited as PC member for CIKM-25
 * 2025-03-10: Attending WSDM 2025 in Hannover, Germany
