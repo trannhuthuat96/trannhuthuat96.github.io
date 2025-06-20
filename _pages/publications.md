@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. <b> [Optimal Transport Alignment of User Preferences from Ratings and Texts]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> Conference on Uncertainty in Artificial Intelligence (<b>UAI'25</b>), July 2025</i> <br>[https://openreview.net/forum?id=tRljM2Jc14] [Code]<br>
+1. <b> [Optimal Transport Alignment of User Preferences from Ratings and Texts]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> Conference on Uncertainty in Artificial Intelligence (<b>UAI'25</b>), July 2025</i> <br>[Paper](https://openreview.net/forum?id=tRljM2Jc14) [Code]<br>
    
-2. <b> [VARIUM: Variational Autoencoder for Multi-Interest Representation with Inter-User Memory]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> ACM International Conference on Web Search and Data Mining (<b>WSDM'25</b>), Mar 2025</i> <br>[https://dl.acm.org/doi/10.1145/3701551.3703558] [Code]<br>
+2. <b> [VARIUM: Variational Autoencoder for Multi-Interest Representation with Inter-User Memory]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> ACM International Conference on Web Search and Data Mining (<b>WSDM'25</b>), Mar 2025</i> <br>[Paper](https://dl.acm.org/doi/10.1145/3701551.3703558) [Code]<br>
 
 3. <b> [Learning Multi-Faceted Prototypical User Interests]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> International Conference on Learning Representations (<b>ICLR'24</b>), May 2024</i> <br>[Paper](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=10281&context=sis_research) [Code](https://github.com/PreferredAI/FacetVAE)<br>
    
