@@ -17,6 +17,8 @@ Going back further in time, I obtained my BSc degree (first class honor) in Comp
 </div>
 
 ## News
+* 2025-07-05: Paper accepted at ACM Multimedia 2025 (ACMMM'2025), titled "Parameter-Efficient Variational AutoEncoder for Multimodal Multi-Interest Recommendation"
+* 2025-07-05: Invited as PC member for KDD-26 (Research Track, First Cycle)
 * 2025-06-20: Invited as PC member for WSDM-26
 * 2025-05-28: Successfully defended my PhD dissertation, titled "Disentangling User Preferences Towards Self-Interpretable Recommender Systems"
 * 2025-05-08: Paper accepted at UAI-25, titled "Optimal Transport Alignment of User Preferences from Ratings and Texts"

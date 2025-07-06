@@ -54,7 +54,7 @@ Work Experience
 Services
 ======
   * Conference PC Member:
-    * 2026: WSDM
+    * 2026: KDD, WSDM
     * 2025: KDD, ICLR, TheWebConf, WSDM, CIKM
     * 2024: KDD, WSDM, PAKDD
     * 2023: PAKDD
