@@ -6,7 +6,7 @@ author_profile: true
 ---
 1. <b> [Parameter-Efficient Variational AutoEncoder for Multimodal Multi-Interest Recommendation]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> ACM International Conference on Multimedia (<b>ACMMM'25</b>), October 2025</i> <br>[Paper](https://tinyurl.com/MapleVAE) [Code](https://github.com/PreferredAI/MAPLEVAE)<br>
 
-2. <b> [Optimal Transport Alignment of User Preferences from Ratings and Texts]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> Conference on Uncertainty in Artificial Intelligence (<b>UAI'25</b>), July 2025</i> <br>[Paper](https://openreview.net/forum?id=tRljM2Jc14) [Code]<br>
+2. <b> [Optimal Transport Alignment of User Preferences from Ratings and Texts]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> Conference on Uncertainty in Artificial Intelligence (<b>UAI'25</b>), July 2025</i> <br>[Paper](https://openreview.net/forum?id=tRljM2Jc14) [Code](https://github.com/PreferredAI/BANDVAE)<br>
    
 3. <b> [VARIUM: Variational Autoencoder for Multi-Interest Representation with Inter-User Memory]()</b> <br><b>Nhu-Thuat Tran</b>, Hady W. Lauw <br><i> ACM International Conference on Web Search and Data Mining (<b>WSDM'25</b>), March 2025</i> <br>[Paper](https://dl.acm.org/doi/10.1145/3701551.3703558) [Code](https://github.com/PreferredAI/VARIUM)<br>
 
