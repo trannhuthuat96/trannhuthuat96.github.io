@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 * Conference PC Member
-  * 2026: KDD, WSDM
+  * 2026: KDD, ICLR, WSDM
   * 2025: KDD, ICLR, TheWebConf, WSDM, CIKM
   * 2024: KDD, WSDM, PAKDD 
   * 2023: PAKDD
 * Journal Reviewer:
     * Information Processing & Management (IP&M)
+    * Data Science and Engineering

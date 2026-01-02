@@ -9,14 +9,19 @@ redirect_from:
 ---
 
 <div style="text-align: justify">
-Hello! I am a PhD candidate at School of Computing and Information Systems (SCIS), Singapore Management University (SMU). My PhD is funded by Vingroup Young Talent Scholarship. 
-At SMU, I have been supervised by <a href="https://www.hadylauw.com/">Prof. Hady W. Lauw</a>. The central theme of my research is interpretability in recommender systems.
-Prior to SMU, I was a member of Data Science and Knowledge Technology Laboratory at VNU University of Engineering and Technology (VNU-UET) from Aug 2018 to Jul 2020,
-working with <a href="https://uet.vnu.edu.vn/~hieupx/">Prof. Xuan-Hieu Phan</a> and <a href="https://scholar.google.com/citations?user=I1FbHw4AAAAJ&hl=en">Dr. Thai-Le Luong</a> on intention mining from social media texts. 
-Going back further in time, I obtained my BSc degree (first class honor) in Computer Science from VNU-UET in Jun 2018 under the supervision of <a href="https://uet.vnu.edu.vn/~hieupx/">Prof. Xuan-Hieu Phan</a>.
+Hello! I am a Senior Staff Engineer at the Singapore Search and Recommendation Lab, Huawei. I obtained my PhD from the 
+School of Computing and Information Systems (SCIS) at Singapore Management University (SMU) in 2025, advised by 
+<a href="https://www.hadylauw.com/">Prof. Hady W. Lauw</a>. My PhD studies were fully funded by the Vingroup Young Talent Scholarship. 
+
+My current research focuses on Large Language Models and Generative Recommendation Systems. Prior to joining SMU, 
+I was a member of the Data Science and Knowledge Technology Laboratory at VNU University of Engineering and Technology (VNU-UET) 
+from August 2018 to July 2020. There, I worked with <a href="https://uet.vnu.edu.vn/~hieupx/">Prof. Xuan-Hieu Phan</a> and <a href="https://scholar.google.com/citations?user=I1FbHw4AAAAJ&hl=en">Dr. Thai-Le Luong</a> on intention mining from social media texts. 
+
+Earlier, I obtained my Bachelor of Science degree (First Class Honours) in Computer Science from VNU-UET in June 2018, under the supervision of <a href="https://uet.vnu.edu.vn/~hieupx/">Prof. Xuan-Hieu Phan</a>.
 </div>
 
 ## News
+* 2025-09-24: Invited as PC member for ICLR-26
 * 2025-07-05: Paper accepted at ACM Multimedia 2025 (ACMMM'2025), titled "Parameter-Efficient Variational AutoEncoder for Multimodal Multi-Interest Recommendation"
 * 2025-07-05: Invited as PC member for KDD-26 (Research Track, First Cycle)
 * 2025-06-20: Invited as PC member for WSDM-26

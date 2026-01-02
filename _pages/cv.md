@@ -26,6 +26,8 @@ redirect_from:
 
 Research Interests
 ======
+* Generative Recommendation Systems
+* Large Language Models
 * Recommender Systems
 * Interpretability in Machine Learning
 * Representation Learning
@@ -37,6 +39,10 @@ Education
 
 Work Experience
 ======
+* Nov 2025 - Present: Singapore Search and Recommendation Lab, Huawei
+  * Senior Staff Engineer
+  * Research topic: Generative Recommendation Systems, Large Language Models
+  
 * Apr 2024 - July 2024: Huawei Noah's Ark Lab, Singapore Research Center
   * Research intern
   * Research topic: Towards foundational recommender systems
@@ -54,12 +60,13 @@ Work Experience
 Services
 ======
   * Conference PC Member:
-    * 2026: KDD, WSDM
+    * 2026: KDD, ICLR, WSDM
     * 2025: KDD, ICLR, TheWebConf, WSDM, CIKM
     * 2024: KDD, WSDM, PAKDD
     * 2023: PAKDD
   * Journal Reviewer:
     * Information Processing & Management (IP&M)
+    * Data Science and Engineering
   * Student Volunteer at KDD-22
 
 Teaching
